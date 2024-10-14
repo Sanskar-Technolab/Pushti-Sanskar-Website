@@ -242,3 +242,23 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+fixtures = [
+    {
+        "dt": "Builder Component",
+    },
+    {
+        "dt": "Builder Page",
+    },
+    {
+        "dt": "Block Template",
+    },
+    {
+        "dt": "Builder Settings",
+    },
+    {
+        "dt": "Builder Client Script",
+    },
+    {
+        "dt": "Builder Page Client Script",
+    },
+]
