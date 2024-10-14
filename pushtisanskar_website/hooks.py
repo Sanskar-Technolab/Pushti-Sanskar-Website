@@ -246,9 +246,9 @@ fixtures = [
     {
         "dt": "Builder Settings",
     },
-    #  {
-    #     "dt": "Block Template",
-    # },
+     {
+        "dt": "Block Template",
+    },
     # {
     #     "dt": "Builder Component",
     # },
