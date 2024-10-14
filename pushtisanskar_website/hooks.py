@@ -246,7 +246,10 @@ fixtures = [
     {
         "dt": "Builder Settings",
     },
-     {
+    {
+        "dt": "Builder Component",
+    },
+    {
         "dt": "Block Template",
     },
     {
@@ -254,8 +257,5 @@ fixtures = [
     },    
     {
         "dt": "Builder Client Script",
-    },
-    {
-        "dt": "Builder Component",
     },
 ]
