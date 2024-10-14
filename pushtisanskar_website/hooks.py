@@ -255,7 +255,7 @@ fixtures = [
     {
         "dt": "Builder Client Script",
     },
-    # {
-    #     "dt": "Builder Component",
-    # },
+    {
+        "dt": "Builder Component",
+    },
 ]
