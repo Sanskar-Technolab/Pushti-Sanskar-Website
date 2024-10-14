@@ -249,13 +249,13 @@ fixtures = [
      {
         "dt": "Block Template",
     },
-    # {
-    #     "dt": "Builder Component",
-    # },
     {
         "dt": "Builder Page",
     },    
+    {
+        "dt": "Builder Client Script",
+    },
     # {
-    #     "dt": "Builder Client Script",
+    #     "dt": "Builder Component",
     # },
 ]
