@@ -244,18 +244,18 @@ app_license = "mit"
 
 fixtures = [
     {
-        "dt": "Builder Component",
-    },
-    {
-        "dt": "Builder Page",
-    },
-    {
-        "dt": "Block Template",
-    },
-    {
         "dt": "Builder Settings",
     },
-    {
-        "dt": "Builder Client Script",
-    },
+    #  {
+    #     "dt": "Block Template",
+    # },
+    # {
+    #     "dt": "Builder Component",
+    # },
+    # {
+    #     "dt": "Builder Page",
+    # },    
+    # {
+    #     "dt": "Builder Client Script",
+    # },
 ]
